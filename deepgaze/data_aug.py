@@ -7,9 +7,9 @@ import re
 from six.moves import cPickle as pickle
 import random
 from scipy import ndarray
-import skimage as sk
-from skimage import transform
-from skimage import util
+#import skimage as sk
+#from skimage import transform
+#from skimage import util
 
 #def random_rotation(image_array: ndarray):
 #    # pick a random degree of rotation between 25% on the left and 25% on the right
